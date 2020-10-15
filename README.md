@@ -4,7 +4,7 @@ An Oculus Quest application to facilitate an experiment into how users spatially
 
 Please note the User ID displayed at the end of the experiment (on the monitor), this will be an 8-digit value. After completing the experiment please fill in this questionnaire: https://tinyurl.com/y5m4b4n3.
 
-Bug Workarounds
+**Bug Workarounds**
 
 -To grab the brush for the colour pallet, grab the actual pallet not the brush and keep it held (releasing will return the brush to the pallet).
 
