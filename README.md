@@ -14,6 +14,8 @@ Bug Workarounds
 
 -Close the pallet window at the end of the experiment (with the back button on the monitor), this will let you see the User ID.
 
+-The computer to insert the disk into is below the desk and to the left.
+
 **Information**
 
 **Contact Details** v012065@northumbria.ac.uk
