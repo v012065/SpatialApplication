@@ -4,6 +4,13 @@ An Oculus Quest application to facilitate an experiment into how users spatially
 
 Please note the User ID displayed at the end of the experiment (on the monitor), this will be an 8-digit value. After completing the experiment please fill in this questionnaire: https://tinyurl.com/y5m4b4n3.
 
+Bug Workarounds
+
+-To grab the brush for the colour pallet, grab the actual pallet not the brush and keep it held (releasing will return the brush to the pallet).
+-If a white window appears above a hand press either B or Y to close (they also open it, its a debug window I forgot to remove).
+-If you loose any cubes under the desk don't worry (will fix in a patch), release them above the desk surface to minimise risk.
+-Close the pallet window at the end of the experiment (with the back button on the monitor), this will let you see the User ID.
+
 **Information**
 
 **Contact Details** v012065@northumbria.ac.uk
