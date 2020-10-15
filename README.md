@@ -38,8 +38,6 @@ Each participant will be given a User ID at the end of the experiment. This User
 
 The final layout and colour of documents will be recorded and uploaded to a secure server.
 
-**Data collected**
-
-will be used to produce a series of metrics to better understand and to establish any difference between different arrangements of documents in augmented reality 3D space.
+Data collected will be used to produce a series of metrics to better understand and to establish any difference between different arrangements of documents in augmented reality 3D space.
 
 Data collected will be stored securely on a server under control of the researchers, data may then be copied to a hard drive or USB stick for the purposes of analysis and will only be retained as long as required. The server and drive will only be accessible to the researcher(s) required to process the data and will be kept password protected. The data will be kept by the researcher/project consultants until the end of the project. They will then be disposed of in line with Northumbria University’s retention policy as data controller under the General Data Protection Regulation (GPDR). Results may be published in a peer-reviewed journal or conference proceedings and may be used as part of the researcher’s thesis.
