@@ -9,18 +9,6 @@ To enter into a free prize draw for a £50 Amazon voucher please email me at v01
 
 If you would like to book a recorded session with me over teams, please email me at v012065@northumbria.ac.uk with the subject "Northumbria Spatial Experiment - Live", completion of this will qualify for a £10 Amazon voucher as compensation for your time. This will take additional time to set up.
 
-**Bug Workarounds**
-
--To grab the brush for the colour pallet, grab the actual palette not the brush and keep it held (releasing will return the brush to the pallet).
-
--If a white window appears above a hand press either B or Y to close (they also open it, its a debug window I forgot to remove).
-
--If you loose any cubes under the desk don't worry (will fix in a patch), release them above the desk surface to minimise risk.
-
--Close the pallet window at the end of the experiment (with the back button on the monitor), this will let you see the User ID.
-
--The computer to insert the disk into is below the desk and to the left.
-
 **Information**
 
 **Contact Details**
@@ -47,9 +35,7 @@ The participant will be presented with a virtual desk with a monitor in an offic
 
 The participant will then need to consent to data collection and begin the experiment by pressing a virtual button. They will then see a set of cubes and a disk appear on the desk. When they pick them up (they can grab them using the controllers, shown as a virtual hand) and move them off the table the cubes will become full sized email documents. Documents will stay visible as long as they are held, or a hand is touching. If the documents are released, they will stay in place and become cubes again until the participant places a hand within the cube. 
 
-There is also a virtual monitor with a button to open a colouring palette. This can be used to colour the cubes a chosen colour by picking up and moving a virtual brush over the desired colour and then into a cube. The participant will be able to place the cubes in space and colour code them as desired. They will need to group them however they feel by the groupings of VR/AR, AI, Teaching and Spam. The experiment will be finished by inserting a disk into a computer under the desk, which will trigger collected data to be uploaded and a copy saved to the Quest. A User ID will be displayed on the monitor at the end of the session, after communicating with the server.
-
-Once complete the participant will be directed to fill in some questionnaires.
+There is also a virtual monitor with a button to open a colouring palette on the left hand. This can be used to colour the cubes a chosen colour by poking the desired colour on the palette with the right index finger and then into poking cube. The participant will be able to place the cubes in space and colour code them as desired. They will need to group them however they feel by the groupings of VR/AR, AI, Teaching and Spam. The experiment will be finished by inserting a disk into the slot under the monitor, which will trigger collected data to be uploaded. If the upload is unsuccessful a copy of the data will be saved to the Quest. A User ID will be displayed on the monitor at the end of the session, after communicating with the server and prompt the participant to answer a questionnaire (this can be opened in the Quest browser by pressing a button or in any browser with the link above). If the experiment program is run again it will display the UserID provided originally and the questionnaire button, after putting on the AR glasses.
 
 **Collected Data**
 
