@@ -16,25 +16,25 @@ I have made a discord channel in-case anyone has any questions or needs help: ht
 
 # Information
 
-# Contact Details
+## Contact Details#
 
 v012065@northumbria.ac.uk
 
-# Purpose of Study
+## Purpose of Study
 
 The purpose of the study is to improve our understanding of the way people spatially arrange and group documents in space.
 
 The scenario for this experiment is to allow users to arrange and group electronic mail in three dimensions. There will also be the option to colour code documents as a secondary means to impart groupings of documents. A virtual reality headset is used to present an augmented reality environment to users without access to head-mounted augmented reality hardware.
 
-# Participation
+## Participation
 
 Your participation in this experiment is voluntary and you may choose to stop at any time and remove yourself from the study. If you feel nauseous at any time while wearing the virtual reality headset, remove the headset.
 
-# Researcher Contact
+## Researcher Contact
 
 Please contact the researcher by email at v012065@northumbria.ac.uk if you have any questions about the experiment or wish to withdraw from the study. You will only be contacted by the researcher by email (if provided) and in relation to the study or if you want additional details on the study or results.
 
-# Experimental Procedure
+## Experimental Procedure
 
 The participant will be presented with a virtual desk with a monitor in an office environment and must first put on the virtual "AR glasses" on the desk by picking them up and moving them to their head. The application will guide through the experimental procedure within the headset.
 
@@ -42,7 +42,7 @@ The participant will then need to consent to data collection and begin the exper
 
 There is also a virtual monitor with a button to open a colouring palette on the left hand. This can be used to colour the cubes a chosen colour by poking the desired colour on the palette with the right index finger and then poking cube. The participant will be able to place the cubes in space and colour code them as desired. They will need to group them however they feel by the groupings of VR/AR, AI, Teaching and Spam. The experiment will be finished by inserting a disk into the slot under the monitor, which will trigger collected data to be uploaded. If the upload is unsuccessful a copy of the data will be saved to the Quest. A User ID will be displayed on the monitor at the end of the session, after communicating with the server and prompt the participant to answer a questionnaire (this can be opened in the Quest browser by pressing a button or in any browser with the link above). If the experiment program is run again, after a successful upload, it will display the User ID provided originally and the questionnaire button, after putting on the AR glasses.
 
-# Collected Data
+## Collected Data
 
 Each participant will be given a User ID at the end of the experiment. This User ID will then be used for identification of data and questionnaires. Participants can also use this User ID in case they later want to leave the experiment. Participant’s personal information will not be part of any published data set and will instead be anonymised using the User ID.
 
