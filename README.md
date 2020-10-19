@@ -16,7 +16,7 @@ I have made a discord channel in-case anyone has any questions or needs help: ht
 
 # Information
 
-## Contact Details#
+## Contact Details
 
 v012065@northumbria.ac.uk
 
