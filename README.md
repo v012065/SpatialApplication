@@ -4,11 +4,11 @@ Also available on SideQuest: https://sidequestvr.com/app/1684
 
 Hi I'm a PhD student running an experiment for my Thesis. I have posted it here due to the pandemic not allowing in person testing at my (or any) University. I would appreciate if you could try out my experimental application and fill in the questionnaire after (should take around 15-25 minutes total) since this would really help me to gather data for my PhD Thesis.
 
-The experiment is an Oculus Quest application investigating how users spatially arrange documents in 3D space for augmented reality, simulated in VR. The experiment should take around 10-15 minuites to complete. You can only complete the experiment once. Also please remember to have WIFI enabled on your device to transmit the experiment data.
+The experiment is an Oculus Quest application investigating how users spatially arrange documents in 3D space for augmented reality, simulated in VR. The experiment should take around 10-15 minuites to complete. You can only complete the experiment once. Also please remember to have WIFI enabled on your device to transmit the experiment data. The experiment is now also available for Oculus Rift and Link on PC.
 
 Please note the User ID displayed at the end of the experiment (on the monitor), this will be an 8-digit value. After completing the experiment please fill in this questionnaire: https://tinyurl.com/y5m4b4n3. The questionnaire should take around 5-10 minuites to complete.
 
-To enter into a free prize draw for a £50 Amazon voucher please email me at v012065@northumbria.ac.uk with your User ID with the subject "Northumbria Spatial Experiment - Draw" . This will be announced after November 30th 2020, where the winner will be contacted by email. Email addresses provided will only be used for this purpose.
+To enter into a free prize draw for a £50 Amazon voucher please email me at v012065@northumbria.ac.uk with your User ID with the subject "Northumbria Spatial Experiment - Draw" . This will be announced after March 1st 2021, where the winner will be contacted by email. Email addresses provided will only be used for this purpose.
 
 If you would like to book a recorded session with me over teams, please email me at v012065@northumbria.ac.uk with the subject "Northumbria Spatial Experiment - Live", completion of this will qualify for a £10 Amazon voucher as compensation for your time. This will take additional time to set up.
 
