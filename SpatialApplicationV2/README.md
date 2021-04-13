@@ -1,5 +1,7 @@
 Built with Unity 2019.3.0f3
 
+Requires Oculus Loader for XR for Android and PC from Package Manager (see https://developer.oculus.com/documentation/unity/unity-conf-settings/)
+
 Requires Assets
 
 https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490
