@@ -11,5 +11,7 @@ Might build with later versions of Oculus Integration, some commented out sectio
 Endpoints must be set to a server to function.
 
 Playback engine can be enabled in Unity Editor by enabling playback object, disable VR object to fix camera.
+
 MUST ENABLE SAVEOBJECT IN SCENE 3 OR FILES WILL NOT LOAD
+
 PLAYBACK FILES MUST BE PLACED IN Application.persistentDataPath TO LOAD LOCALLY
