@@ -1,1 +1,9 @@
+FloppyDiskDriveSound
+https://www.youtube.com/watch?v=7Qz9a8kYYkA
+https://www.genyoutube.com/watch?v=7Qz9a8kYYkA
 
+TapeDeck
+http://soundbible.com/1549-Tape-Deck.html
+
+Play Part of Sounds
+https://answers.unity.com/questions/993241/how-to-play-specific-part-of-the-audio.html
