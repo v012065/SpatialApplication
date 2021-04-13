@@ -2,6 +2,7 @@ Built with Unity 2019.3.0f3
 
 Requires Assets
 https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490
+
 https://developer.oculus.com/downloads/package/unity-integration-archive/20.0/
 
 Might build with later versions of Oculus Integration, some commented out sections can be reimplemented.
