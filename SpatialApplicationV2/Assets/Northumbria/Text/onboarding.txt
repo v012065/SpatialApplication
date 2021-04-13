@@ -1,9 +1,11 @@
-Press the forward button to review the instructions again.
+Welcome to the experiment, press the arrows to the sides of the monitor to go forward or back.
 All interaction will be direct with your virtual hands and everything can be picked up. 
 Move a hand inside an object and a blue outline will appear. Press and hold the trigger button while the outline is active to grab the object.
 We are interested in how you use the space provided.
 When you start there will be a set of cubes on the desk, these are a collection of emails that you must sort into catgories relating to AR/VR, AI, Teaching and Spam.
 The cubes will stay in the air when away from the desk and if you make contact with them you will be able to see the full email. Cubes cannot go below the desk.
 You will be able to colour the cubes as you wish. Other items may also be colourable.
-Click on the colour wheel to open a palette on your left hand, you can then dip your right index finger in colours and poke cubes to colour them.
-When you are finished, press the disk to complete the experiment. This will appear once all cubes have been interacted with.
+Click on the colour wheel to open a palette on your left hand, you can then dip your right index finger in colours and poke cubes to colour them. 
+Please review the consent document.
+Thank you for giving consent. When you are ready press the button below to begin and when you are finished, press the disk to complete the experiment. This will appear once all cubes have been interacted with.
+Consent was declined. Please exit the experiment.
