@@ -8,7 +8,7 @@ The experiment is an Oculus Quest application investigating how users spatially 
 
 Please note the User ID displayed at the end of the experiment (on the monitor), this will be an 8-digit value. After completing the experiment please fill in this questionnaire: https://tinyurl.com/y5m4b4n3. The questionnaire should take around 5-10 minuites to complete.
 
-To enter into a free prize draw for a £50 Amazon voucher please email me at v012065@northumbria.ac.uk with your User ID with the subject "Northumbria Spatial Experiment - Draw" . This will be announced after March 1st 2021, where the winner will be contacted by email. Email addresses provided will only be used for this purpose.
+T̵o̵ ̵e̵n̵t̵e̵r̵ ̵i̵n̵t̵o̵ ̵a̵ ̵f̵r̵e̵e̵ ̵p̵r̵i̵z̵e̵ ̵d̵r̵a̵w̵ ̵f̵o̵r̵ ̵a̵ ̵£̵5̵0̵ ̵A̵m̵a̵z̵o̵n̵ ̵v̵o̵u̵c̵h̵e̵r̵ ̵p̵l̵e̵a̵s̵e̵ ̵e̵m̵a̵i̵l̵ ̵m̵e̵ ̵a̵t̵ ̵v̵0̵1̵2̵0̵6̵5̵@̵n̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵.̵a̵c̵.̵u̵k̵ ̵w̵i̵t̵h̵ ̵y̵o̵u̵r̵ ̵U̵s̵e̵r̵ ̵I̵D̵ ̵w̵i̵t̵h̵ ̵t̵h̵e̵ ̵s̵u̵b̵j̵e̵c̵t̵ ̵"̵N̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵ ̵S̵p̵a̵t̵i̵a̵l̵ ̵E̵x̵p̵e̵r̵i̵m̵e̵n̵t̵ ̵-̵ ̵D̵r̵a̵w̵"̵ ̵.̵ ̵T̵h̵i̵s̵ ̵w̵i̵l̵l̵ ̵b̵e̵ ̵a̵n̵n̵o̵u̵n̵c̵e̵d̵ ̵a̵f̵t̵e̵r̵ ̵M̵a̵r̵c̵h̵ ̵1̵s̵t̵ ̵2̵0̵2̵1̵,̵ ̵w̵h̵e̵r̵e̵ ̵t̵h̵e̵ ̵w̵i̵n̵n̵e̵r̵ ̵w̵i̵l̵l̵ ̵b̵e̵ ̵c̵o̵n̵t̵a̵c̵t̵e̵d̵ ̵b̵y̵ ̵e̵m̵a̵i̵l̵.̵ ̵E̵m̵a̵i̵l̵ ̵a̵d̵d̵r̵e̵s̵s̵e̵s̵ ̵p̵r̵o̵v̵i̵d̵e̵d̵ ̵w̵i̵l̵l̵ ̵o̵n̵l̵y̵ ̵b̵e̵ ̵u̵s̵e̵d̵ ̵f̵o̵r̵ ̵t̵h̵i̵s̵ ̵p̵u̵r̵p̵o̵s̵e̵.̵
 
 If you would like to book a recorded session with me over teams, please email me at v012065@northumbria.ac.uk with the subject "Northumbria Spatial Experiment - Live", completion of this will qualify for a £10 Amazon voucher as compensation for your time. This will take additional time to set up.
 
