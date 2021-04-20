@@ -10,7 +10,7 @@ Please note the User ID displayed at the end of the experiment (on the monitor),
 
 T̵o̵ ̵e̵n̵t̵e̵r̵ ̵i̵n̵t̵o̵ ̵a̵ ̵f̵r̵e̵e̵ ̵p̵r̵i̵z̵e̵ ̵d̵r̵a̵w̵ ̵f̵o̵r̵ ̵a̵ ̵£̵5̵0̵ ̵A̵m̵a̵z̵o̵n̵ ̵v̵o̵u̵c̵h̵e̵r̵ ̵p̵l̵e̵a̵s̵e̵ ̵e̵m̵a̵i̵l̵ ̵m̵e̵ ̵a̵t̵ ̵v̵0̵1̵2̵0̵6̵5̵@̵n̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵.̵a̵c̵.̵u̵k̵ ̵w̵i̵t̵h̵ ̵y̵o̵u̵r̵ ̵U̵s̵e̵r̵ ̵I̵D̵ ̵w̵i̵t̵h̵ ̵t̵h̵e̵ ̵s̵u̵b̵j̵e̵c̵t̵ ̵"̵N̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵ ̵S̵p̵a̵t̵i̵a̵l̵ ̵E̵x̵p̵e̵r̵i̵m̵e̵n̵t̵ ̵-̵ ̵D̵r̵a̵w̵"̵ ̵.̵ ̵T̵h̵i̵s̵ ̵w̵i̵l̵l̵ ̵b̵e̵ ̵a̵n̵n̵o̵u̵n̵c̵e̵d̵ ̵a̵f̵t̵e̵r̵ ̵M̵a̵r̵c̵h̵ ̵1̵s̵t̵ ̵2̵0̵2̵1̵,̵ ̵w̵h̵e̵r̵e̵ ̵t̵h̵e̵ ̵w̵i̵n̵n̵e̵r̵ ̵w̵i̵l̵l̵ ̵b̵e̵ ̵c̵o̵n̵t̵a̵c̵t̵e̵d̵ ̵b̵y̵ ̵e̵m̵a̵i̵l̵.̵ ̵E̵m̵a̵i̵l̵ ̵a̵d̵d̵r̵e̵s̵s̵e̵s̵ ̵p̵r̵o̵v̵i̵d̵e̵d̵ ̵w̵i̵l̵l̵ ̵o̵n̵l̵y̵ ̵b̵e̵ ̵u̵s̵e̵d̵ ̵f̵o̵r̵ ̵t̵h̵i̵s̵ ̵p̵u̵r̵p̵o̵s̵e̵.̵
 
-If you would like to book a recorded session with me over teams, please email me at v012065@northumbria.ac.uk with the subject "Northumbria Spatial Experiment - Live", completion of this will qualify for a £10 Amazon voucher as compensation for your time. This will take additional time to set up.
+I̵f̵ ̵y̵o̵u̵ ̵w̵o̵u̵l̵d̵ ̵l̵i̵k̵e̵ ̵t̵o̵ ̵b̵o̵o̵k̵ ̵a̵ ̵r̵e̵c̵o̵r̵d̵e̵d̵ ̵s̵e̵s̵s̵i̵o̵n̵ ̵w̵i̵t̵h̵ ̵m̵e̵ ̵o̵v̵e̵r̵ ̵t̵e̵a̵m̵s̵,̵ ̵p̵l̵e̵a̵s̵e̵ ̵e̵m̵a̵i̵l̵ ̵m̵e̵ ̵a̵t̵ ̵v̵0̵1̵2̵0̵6̵5̵@̵n̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵.̵a̵c̵.̵u̵k̵ ̵w̵i̵t̵h̵ ̵t̵h̵e̵ ̵s̵u̵b̵j̵e̵c̵t̵ ̵"̵N̵o̵r̵t̵h̵u̵m̵b̵r̵i̵a̵ ̵S̵p̵a̵t̵i̵a̵l̵ ̵E̵x̵p̵e̵r̵i̵m̵e̵n̵t̵ ̵-̵ ̵L̵i̵v̵e̵"̵,̵ ̵c̵o̵m̵p̵l̵e̵t̵i̵o̵n̵ ̵o̵f̵ ̵t̵h̵i̵s̵ ̵w̵i̵l̵l̵ ̵q̵u̵a̵l̵i̵f̵y̵ ̵f̵o̵r̵ ̵a̵ ̵£̵1̵0̵ ̵A̵m̵a̵z̵o̵n̵ ̵v̵o̵u̵c̵h̵e̵r̵ ̵a̵s̵ ̵c̵o̵m̵p̵e̵n̵s̵a̵t̵i̵o̵n̵ ̵f̵o̵r̵ ̵y̵o̵u̵r̵ ̵t̵i̵m̵e̵.̵ ̵T̵h̵i̵s̵ ̵w̵i̵l̵l̵ ̵t̵a̵k̵e̵ ̵a̵d̵d̵i̵t̵i̵o̵n̵a̵l̵ ̵t̵i̵m̵e̵ ̵t̵o̵ ̵s̵e̵t̵ ̵u̵p̵.̵
 
 I have made a discord channel in-case anyone has any questions or needs help: https://discord.gg/ygRZzFz
 
